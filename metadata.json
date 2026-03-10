@@ -1,0 +1,5 @@
+{
+  "name": "TOP Dating App",
+  "description": "A modern, secure dating app with real-time matching, chat, and safety features.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
